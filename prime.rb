@@ -1,6 +1,6 @@
 # Add  code here!
 
-ddef prime?(num)
+def prime?(num)
   if n <= 1
     return false
   elsif n <= 3
